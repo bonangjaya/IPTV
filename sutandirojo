@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:0,Fox News
+http://iptv.wtf:25461/julio/123/11112
+#EXTINF:0,MSNBC
+http://iptv.wtf:25461/julio/123/11100
+#EXTINF:0,CNN
+http://194.88.107.101:6204/marwan/123/10428
+#EXTINF:0,CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+#EXTINF:0,CBSN New York
+https://cbslocallive-i.akamaihd.net/hls/live/724686/CBSNNY_2/master.m3u8
+#EXTINF:0,ABC News !
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0,BBC America !
+http://tv.iptvsensation.org:6500/eTyKXKGM6t/I2RaVpHmHd/16857
+#EXTINF:0,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:0,France 24 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0,CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0,NHK
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0,RT America
+http://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1,UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,ABC 7 WWSB
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1,FOX 29 !
+http://tv.iptvsensation.org:6500/eTyKXKGM6t/I2RaVpHmHd/16824
+#EXTINF:0,Россия 24
+http://37.193.92.99:1234/udp/239.1.15.3:1234
+#EXTINF:0,Крым 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:0,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,Беларусь 24
+https://stream.hoster.by/belarus24/live/playlist.m3u8
+#EXTINF:0,360° НОВОСТИ
+https://360tv-cdn.facecast.io/360/channel1/index.m3u8
+#EXTINF:0,РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1,Настоящее время !
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
+#EXTINF:0,Настоящее время FHD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+#EXTINF:0,112 УКРАЇНА
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:0,Прямий !
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:0,Громадське !
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
+#EXTINF:-1,Громадське ТВ [FHD]
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:0,ЕКСПРЕСО TV !
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:0,24 Канал Украина !
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:0,5 КАНАЛ УКРАЇНА !
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,Первый Деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1,Первый канал FHD
+http://31.185.0.40:8080/OrtHD/playlist.m3u8
+#EXTINF:0,Первый канал
+http://176.101.224.21:8080/udp/239.195.32.1:1234
+#EXTINF:0,Россия 1
+http://109.70.184.20:8080/udp/239.195.32.2:1234
+#EXTINF:-1,Россия HD FHD
+http://37.193.92.99:1234/udp/239.1.10.22:1234
+#EXTINF:0,Россия 1 (+4 часа)
+rtmp://hosting.nsktv.ru:1935/live/rossia1
+#EXTINF:0,Россия 1 (+6 часов)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:0,НТВ
+http://176.101.224.21:8080/udp/239.195.32.7:1234
+#EXTINF:0,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:0,Пятый канал Петербург
+http://176.101.224.21:8080/udp/239.195.32.14:1234
+#EXTINF:0,РЕН ТВ
+http://109.70.184.20:8080/udp/239.195.32.18:1234
+#EXTINF:0,ТНТ !
+http://cdn-01.bonus-tv.ru/tnt_stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,Россия К !
+http://134.19.150.42:81/udp/239.0.1.5:1234
+#EXTINF:-1,СТС International
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:0,Звезда
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/index.m3u8
+#EXTINF:-1,Пятница
+http://37.193.92.99:1234/udp/239.1.15.17:1234
+#EXTINF:-1,Мир HD 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:-1,Телеканал 360°
+https://360tv-cdn.facecast.io/360/channel2/index.m3u8
+#EXTINF:0,Крым 1
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1,ЛДПР ТВ HD
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:0,UA:Перший !
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1,UA:Крым !
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1,ОТБ (Харьков)
+https://stream.otb.com.ua/hls/otb1/index.m3u8
+#EXTINF:-1,STV (Одесса)
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8
+#EXTINF:-1,Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1,Репортер (Одесса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1,Третий Цифровой (Одесса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
+#EXTINF:0,Думская TV HD
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:0,ОНТ - Общественное независимое телевидение
+http://85.238.112.40:8810/hls_sec/online/list-ont.m3u8
+#EXTINF:-1,7 канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1,Академия (Одесса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
+#EXTINF:0,TV5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1,Алекс Запоріжжя
+rtmp://94.240.131.3/live/livestream3
+#EXTINF:-1,Донеччина TV (Краматорск)
+http://stream.dn.ua/hls/stream.m3u8
+#EXTINF:0,Первый Республиканский FHD
+http://dprtv.phoenix-dnr.ru/first-republic-tv
+#EXTINF:0,Оплот
+http://dprtv.phoenix-dnr.ru/oplot-tv
+#EXTINF:0,Union !
+http://dprtv.phoenix-dnr.ru/union
+#EXTINF:0,Новороссия
+http://dprtv.phoenix-dnr.ru/novorossia-tv
+#EXTINF:-1,Amedia 1
+http://37.193.92.99:1234/udp/239.1.4.4:1234
+#EXTINF:0,Дом кино Премиум
+http://88.216.48.14:80/domkinoprem/live.m3u8
+#EXTINF:-1, Дом Кино
+http://88.216.48.14:80/domkino/live.m3u8
+#EXTINF:-1 resolution=720x540 group-title="Фильмы", Русский Бестселлер
+http://stream.euroasia.lfstrm.tv/russkiy_bestseller/1/index.m3u8
+#EXTINF:-1 resolution=720x404 group-title="Фильмы", Русский Иллюзион
+http://stream.euroasia.lfstrm.tv/russkiy_illusion/1/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Родное кино
+http://134.19.150.42:81/udp/239.195.1.114:1234
+#EXTINF:0,НТВ+ Наше новое кино
+http://persik.by/stream/492/345860/10334.m3u8?codec=em9uYS1pcHR2LnJ1
+#EXTINF:-1,Русский Экстрим Ретро !
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:0,Говорит Москва !
+http://video.govoritmoskva.ru:8080/rufm/index.m3u8
